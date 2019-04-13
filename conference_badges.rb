@@ -22,3 +22,4 @@ def printer(attendees)
   batch_badge_creator(name) = badges
   badges.each { |name| puts "Hello, my name is #{name}."
 end
+end
