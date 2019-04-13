@@ -20,5 +20,5 @@ end
 
 def printer(attendees)
   badges = batch_badge_creator(name)
-  badges.each 
+  badges.each { |
 end
